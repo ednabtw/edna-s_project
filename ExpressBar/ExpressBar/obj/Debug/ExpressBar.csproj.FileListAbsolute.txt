@@ -1,0 +1,10 @@
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\bin\Debug\ExpressBar.exe.config
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\bin\Debug\ExpressBar.exe
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\bin\Debug\ExpressBar.pdb
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.csproj.AssemblyReference.cache
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.Properties.Resources.resources
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.csproj.GenerateResource.cache
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.csproj.CoreCompileInputs.cache
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.exe
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.pdb
+C:\Users\stasg\OneDrive\Desktop\express bar course\ExpressBar\ExpressBar\obj\Debug\ExpressBar.Form1.resources
